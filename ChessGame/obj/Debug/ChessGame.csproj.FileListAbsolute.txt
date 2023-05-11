@@ -1,0 +1,11 @@
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csprojAssemblyReference.cache
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.Properties.Resources.resources
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.pdb
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.Board.resources
+C:\Users\lukyc\source\repos\ChessGame\ChessGame\obj\Debug\ChessGame.Form1.resources
